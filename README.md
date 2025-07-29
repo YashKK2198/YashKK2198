@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Yash Kulkarni!
+# 🙋‍♂️ Hi, I'm Yash Kulkarni!
 
-🚀 A passionate **Software Engineer** and **DevOps Enthusiast**, currently completing my MSc in **Data & Computer Science** at Universität Heidelberg. I enjoy turning complex ideas into scalable, real-world solutions — especially when they intersect with AI, cloud native, or devops concepts.
+🚀A passionate **Software Engineer** and **DevOps Enthusiast**, currently completing my MSc in **Data & Computer Science** at Universität Heidelberg. I enjoy turning complex ideas into scalable, real-world solutions, especially when they intersect with AI, cloud native, or devops concepts.
 
 💼 Currently working at **SAP SE** as a **Working Student** in the S/4HANA Cloud Quality Management team, contributing to Generative AI initiatives, test automation, and DevOps-based quality processes.
 
