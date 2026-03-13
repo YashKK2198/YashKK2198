@@ -17,7 +17,7 @@
 ## 🧠 Tech Stack
 
 **Programming**  
-`Python` `Golang` `Java` `JavaScript` `Node.js` `SQL` `Shell` `Bash` `Apache Spark`  
+`ABAP` `Python` `Golang` `Java` `JavaScript` `Node.js` `SQL` `Shell` `Bash` `Apache Spark`  
 
 **AI & Data**  
 `Flask` `Django` `SpaCy` `MongoDB` `ElasticSearch` `Redis` `Pandas` `scikit-learn`
